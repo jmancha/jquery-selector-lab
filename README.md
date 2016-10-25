@@ -6,7 +6,7 @@ So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript
 
 ## Instructions
 
-<!-- 15 minutes -->
+<!-- 11:30 15 minutes -->
 
 ### Part One
 
@@ -16,7 +16,7 @@ After 5 minutes, switch roles, so the other person is writing.
 
 <!--Ask devs how they will break up this problem -->
 
-<!--30 minutes -->
+<!--11:45 30 minutes -->
 
 ### Part Two
 
@@ -26,7 +26,7 @@ You should *always* be able to test your coding changes. Test your JS code every
 
 > Hint: What is the simplest webpage you could create with HTML that would allow you to test live with the browser?
 
-<!-- 10 minutes -->
+<!-- 12:15 10 minutes -->
 
 ### Part Three
 
@@ -40,7 +40,7 @@ When you are finished with your selector, create a button on your page that says
 
 Use animations or transitions with your `Transform` button.
 
-<!-- 5 minutes -->
+<!-- 12:25 5 minutes -->
 
 ### Part Four
 
