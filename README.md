@@ -16,7 +16,7 @@ After 5 minutes, switch roles, so the other person is writing.
 
 <!--Ask devs how they will break up this problem -->
 
-<!--11:40 25 minutes -->
+<!--11:50 25 minutes -->
 
 ### Part Two
 
@@ -26,7 +26,7 @@ You should *always* be able to test your coding changes. Test your JS code every
 
 > Hint: What is the simplest webpage you could create with HTML that would allow you to test live with the browser?
 
-<!-- 12:05 10 minutes -->
+<!-- 12:15 10 minutes -->
 
 ### Part Three
 
