@@ -1,5 +1,7 @@
 # Make Your Own jQuery Selector
 
+<!--This is REALLY FUCKING HARD for students.  We're having issues just with using dev tools to t-shoot, never mind the conditionals and function splitting. -->
+
 ## Introduction
 
 So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript library, the jQuery selector itself is built using Javascript.  Today, you will use Javascript to build your very own selector function that does the same thing as `$()`.
