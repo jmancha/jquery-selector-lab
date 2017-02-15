@@ -1,6 +1,6 @@
 # Make Your Own jQuery Selector
 
-<!--This is REALLY FUCKING HARD for students.  We're having issues just with using dev tools to t-shoot, never mind the conditionals and function splitting. -->
+<!--This is REALLY FUCKING HARD for students.  We're having issues just with using dev tools to t-shoot, never mind the conditionals and function splitting. This time around, we should make sure they have a really solid grasp on general approach before moving into part one, and a really solid grasp on conditionals and functions before part two.-->
 
 ## Introduction
 
@@ -8,7 +8,7 @@ So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript
 
 ## Instructions
 
-<!-- 11:35 15 minutes -->
+<!-- 11:50 15 minutes -->
 
 ### Part One
 
@@ -18,17 +18,17 @@ After 5 minutes, switch roles, so the other person is writing.
 
 <!--Ask devs how they will break up this problem -->
 
-<!--11:50 25 minutes -->
+<!--12:05 25 minutes -->
 
 ### Part Two
 
-Individually, translate the whiteboarding results to code.
+In the same pairs, translate the whiteboarding results to code.  Select one person to "drive", and another person to "navigate".  After 10 minutes, switch roles.
 
 You should *always* be able to test your coding changes. Test your JS code every time you change something, and check Developer Tools and/or your Terminal.
 
 > Hint: What is the simplest webpage you could create with HTML that would allow you to test live with the browser?
 
-<!-- 12:15 10 minutes -->
+<!-- We don't have time for this
 
 ### Part Three
 
@@ -41,6 +41,8 @@ When you are finished with your selector, create a button on your page that says
 #### Bonus
 
 Use animations or transitions with your `Transform` button.
+
+-->
 
 <!-- 12:25 5 minutes -->
 
