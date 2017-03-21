@@ -12,7 +12,7 @@ So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript
 
 ### Part One
 
-In pairs, use a whiteboard to write one function that emulates the $ jQuery function using document.getElementById(), document.getElementsByClassName(), document.getElementsByTagName(), etc.  Have one person writing on the board, and one person suggesting tweaks.
+In squads, use a whiteboard to write one function that emulates the $ jQuery function using document.getElementById(), document.getElementsByClassName(), document.getElementsByTagName(), etc.  Have one person writing on the board, and one person suggesting tweaks.
 
 After 5 minutes, switch roles, so the other person is writing.
 
@@ -22,7 +22,7 @@ After 5 minutes, switch roles, so the other person is writing.
 
 ### Part Two
 
-In the same pairs, translate the whiteboarding results to code.  Select one person to "drive", and another person to "navigate".  After 10 minutes, switch roles.
+In squads, translate the whiteboarding results to code.  Select one person to "drive", another person to "navigate", and at least one person to research.  After 10 minutes, switch roles.
 
 You should *always* be able to test your coding changes. Test your JS code every time you change something, and check Developer Tools and/or your Terminal.
 
@@ -46,7 +46,7 @@ Use animations or transitions with your `Transform` button.
 
 <!-- 12:25 5 minutes -->
 
-### Part Four
+### Part Three
 
 As a class, discuss what you learned from this exercise:
 
